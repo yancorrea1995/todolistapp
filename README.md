@@ -1,6 +1,7 @@
 # Todolistapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+Created using Angular 7 and Firebase.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
